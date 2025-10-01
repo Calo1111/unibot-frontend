@@ -1,5 +1,4 @@
 {
-  npm install react@latest react-dom@latest
   "name": "unibot-frontend",
   "version": "1.0.0",
   "private": true,
